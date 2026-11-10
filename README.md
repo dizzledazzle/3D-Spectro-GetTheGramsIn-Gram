@@ -1,7 +1,12 @@
 # 3D Audio Spectrogram Visualiser
 
-https://conwayjw97.github.io/3D-Spectrogram/
-
+I wonder what waveform those pesky admins
+legs make when you slam them in the door
+🎯
+🎯 🎯 
+🎯 🎯 🎯  
+ -Hold Tight Nap - Every time - NewZoneVet -
+ 🎯 🎯 🎯 
 A real-time, hardware-accelerated 3D audio spectrogram visualiser that renders incoming audio frequencies from a browser tab or audio input as a dynamic, scrolling terrain. Built using Three.js, custom GLSL shaders, and the Web Audio API.
 
 [spectrogram-log.webm](https://github.com/user-attachments/assets/c8e7dd61-e8ae-477f-8ca3-ef2d3ad47ff8)
